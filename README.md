@@ -1,44 +1,71 @@
 <!-- Banner Medieval 1 -->
-![Banner Medieval - Castelo](URL_DA_IMAGEM_CASTELO_AQUI)
+<hr>
+<p align="center">
+  <img src="assets dayane/banner.png" alt="Banner Medieval - Castelo" width="48%" style="display: inline-block; margin-right: 1%;" />
+  <img src="assets dayane/banner2.png" alt="Banner Medieval - Floresta Mística" width="48%" style="display: inline-block;" />
+</p>
 
-<!-- Banner Medieval 2 -->
-![Banner Medieval - Floresta Mística](URL_DA_IMAGEM_FLORESTA_AQUI)
+<h1 align="center">🏰 Dayana Sena — Gestão de Projetos de TI na Era Medieval 🏰</h1>
+<p align="center"><i>“Na jornada dos projetos, como nas grandes epopeias medievais,<br>
+liderança, estratégia e coragem são as chaves para a vitória.”</i></p>
 
-# 🏰 Dayana Sena — Gestão de Projetos de TI na Era Medieval 🏰
+---
 
-> “Na jornada dos projetos, como nas grandes epopeias medievais, liderança, estratégia e coragem são as chaves para a vitória.”
 
-## ✨ Sobre Dayana Sena
+<p align="center">
+  <img src="https://img.shields.io/badge/Gestão%20de%20Projetos-estratégia%20medieval-8B5E3C?style=flat-square" alt="Gestão de Projetos" />
+  <img src="https://img.shields.io/badge/Consultora-funcional-00796B?style=flat-square" alt="Consultora Funcional" />
+  <img src="https://img.shields.io/badge/Full%20Stack-em%20andamento-1E88E5?style=flat-square" alt="Full Stack" />
+</p>
 
-Estudante de Gestão de Projetos e Processos com IA, Dayana busca consolidar sua carreira em gestão de projetos na área de TI. Com experiência como consultora funcional, ela atua na análise de processos, sistemas e negócios, sempre guiada pela sabedoria digna de uma conselheira real.
+Estudante de Gestão de Projetos e Processos com IA, Dayana busca consolidar sua carreira em gestão de projetos na área de TI. Com experiência como consultora funcional, atua na análise de processos, sistemas e negócios, sempre guiada pela sabedoria digna de uma conselheira real.
 
-- 👑 **Implantação de CRM (Salesforce):** Participou de importantes missões de implantação, desbravando novos reinos de relacionamento com clientes.
-- 🏹 **Sustentação de Power BI:** Integração épica ao ERP (IFS), garantindo que a inteligência governasse os dados do reino.
-- 🛡️ **Consultoria de Growth:** Orientação de carreiras e vendas como uma mentora dos aventureiros em busca de seus propósitos.
+- 👑 <b>Implantação de CRM (Salesforce):</b> Participou de missões de implantação, desbravando novos reinos de relacionamento com clientes.
+- 🏹 <b>Sustentação de Power BI:</b> Integração épica ao ERP (IFS), garantindo que a inteligência governasse os dados do reino.
+- 🛡️ <b>Consultoria de Growth:</b> Orientação de carreiras e vendas como mentora dos aventureiros em busca de seus propósitos.
+
+---
 
 ## 📜 Formação Acadêmica
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Bacharel-UFMG-512DA8?style=flat-square" alt="Bacharel UFMG" />
+  <img src="https://img.shields.io/badge/Full%20Stack-em%20andamento-1976D2?style=flat-square" alt="Full Stack" />
+</p>
 
 - **Bacharel em Ciências do Estado e Governança Social** — UFMG
 - **Pós-graduação em Mediação de Conflitos**
 - **Desenvolvimento Full Stack (em andamento)**
 
-Dayana busca conhecimento em todas as frentes, como uma verdadeira estudiosa das artes mágicas da tecnologia, para fortalecer seu objetivo de liderar projetos inovadores.
-
-## ⚔️ Linguagens & Ferramentas Dominadas
-
-- <span style="color:#e34c26">HTML</span> 🏰
-- <span style="color:#563d7c">CSS</span> 👸
-- <span style="color:#f7df1e">JavaScript</span> 🧙‍♂️
-- <span style="color:#61dafb">React Native</span> 🌿
-- <span style="color:#3572A5">Python</span> 🐉
-- <span style="color:#e38c00">SQL</span> 📜
-- <span style="color:#ff9900">Apex</span> 🛡️
-- <span style="color:#00aaff">Power BI</span> 🔮
-
-## 🌟 Conecte-se
-
-- [LinkedIn](https://www.linkedin.com/in/dayana-sena-0a2a231b0/) 🏹
+Dayana busca conhecimento em todas as frentes, como uma verdadeira estudiosa das artes mágicas da tecnologia, fortalecendo seu objetivo de liderar projetos inovadores.
 
 ---
 
-> “Como nos antigos conselhos de elfos e magos, Dayana une sabedoria, estratégia e magia dos dados para levar projetos ao sucesso.”
+## ⚔️ Linguagens & Ferramentas Dominadas
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React_Native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-%2300C7B7.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Apex-%230076D5.svg?style=for-the-badge&logo=salesforce&logoColor=white" alt="Apex" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI" />
+</p>
+
+---
+
+## 🌟 Conecte-se
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/dayana-sena-0a2a231b0/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Dayana%20Sena-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+---
+
+<p align="center"><i>
+“Como nos antigos conselhos de elfos e magos, Dayana une sabedoria, estratégia e magia dos dados para levar projetos ao sucesso.”
+</i></p>
